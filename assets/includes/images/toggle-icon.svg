@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 23" width="22" height="23">
+	<title>toggle-icon</title>
+	<defs>
+		<image  width="22" height="23" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAXCAMAAAA4Nk+sAAAAAXNSR0IB2cksfwAAAEJQTFRFAAAAODg4MzMzMjIyMDAwMDAwNDQ0NDQ0NDQ0NTU1NDQ0NDQ0NTU1NDQ0MzMzNDQ0MzMzMzMzNDQ0MzMzMzMzNTU1e0OA5QAAABZ0Uk5TACBQYCAQf8//30BwML+Q79+fgKDvn6SLtNgAAAChSURBVHicddHrDoMgDAXgcxDUuYtm7/+KW0yc27wgOoKbwa4/SPhSoLRECJJwalx3fjUf9Nve/rhwDt9T3RQ4VdjG1HuOFEjahbVGHPpBnIcdm4bFtFNA8dILnDKjwI5lJ3DGXNClbjEbrN7i3WIlh391Q7glrwkhfbDLZ67PSIu773f06vEWprPNP71arLPUZRvQNn7Ka6OMrcbM1klo/gzwPyx48Xd7GwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
